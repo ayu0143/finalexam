@@ -335,3 +335,12 @@ display: flex;
     border: 2.5px solid #10ffcb;
     padding: 10px;
   }
+
+.video a {
+	background-color: none;
+	border-bottom: none;
+}
+
+.video h3 {
+	color: black;
+}
