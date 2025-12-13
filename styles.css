@@ -21,7 +21,7 @@ html {
 }
 
 .pig {
-	padding-top: 30px;
+	padding-top: 20px;
 	padding-bottom: 30px;
 }
 
@@ -99,6 +99,7 @@ h1,
   font-weight: 700;
   margin-top: 0;
   font-size: 4.21em;
+	color: #ec888c;
 }
 
 h2,
