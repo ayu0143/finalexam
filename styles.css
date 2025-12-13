@@ -48,6 +48,7 @@ a {
   color: #FFFFFF; 
   text-decoration: none; 
   transition: color 0.3s ease-in-out;
+	background-color: pink;
 }
 
 a:visited {
