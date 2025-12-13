@@ -140,10 +140,14 @@ h5,
     gap: 20px;
   }
 
-  .questions {
+.questions {
     padding: 10px;
     text-align: center;
   }
+
+.questions a {
+	padding: 30px;
+}
 
 /* FOOTER */
 .bank-footer {
