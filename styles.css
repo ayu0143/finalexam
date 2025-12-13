@@ -132,6 +132,10 @@ h5,
             text-align: center;
   }
 
+.center-text h2 {
+	border: none;
+}
+
 /* HOMEPAGE ORGANIZATION */
 
 .title {
