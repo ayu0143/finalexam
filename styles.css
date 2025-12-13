@@ -337,8 +337,7 @@ display: flex;
   }
 
 .video a {
-	background-color: none;
-	border-bottom: none;
+  all: unset;
 }
 
 .video h3 {
