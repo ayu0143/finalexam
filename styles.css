@@ -1,0 +1,33 @@
+/* caprasimo-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Caprasimo';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/caprasimo-v6-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* chivo-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/chivo-v21-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  gap: 20px;
+  background-color: pink;
+   padding: 20px;
+  border: 1px solid #FFFFFF;
+ }
+
+ nav ul li {
+  padding: 5px;
+  padding-left: 10px;
+  border-radius: 5px;
+ }
