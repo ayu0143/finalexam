@@ -337,10 +337,7 @@ display: flex;
   }
 
 .video a {
-  all: unset;
-}
-
-.video h3 {
+	all: unset;
 	color: black;
 }
 
