@@ -21,8 +21,8 @@ html {
 }
 
 .titleimg {
-	width: 100px;   
-    height: 400px;   
+	max-width: 1000px;   
+    max-height: 600px;   
 
 }
 
