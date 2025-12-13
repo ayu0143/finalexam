@@ -260,12 +260,12 @@ h5,
 
 /* TUTORIAL HOMEPAGE */
 
-.categories {
+.categories li {
 	list-style: none;
   display: flex;
   justify-content: center;
   flex-direction: row;
+padding: 50px;
   gap: 20px;
-  background-color: #b5f8fe;
-   padding: 50px;
 }
+
