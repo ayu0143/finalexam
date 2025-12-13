@@ -362,3 +362,8 @@ display: flex;
    color: black;
     text-decoration: underline; 
 }
+
+.video img {
+	height: 300px;
+	weight: auto;
+}
