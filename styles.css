@@ -94,6 +94,11 @@ h4,
 h5,
 .text-size-h5 { font-size: 1.33em; }
 
+/*CENTERING */
+  .center-text {
+            text-align: center;
+  }
+
 /* HOMEPAGE ORGANIZATION */
 
 .title {
