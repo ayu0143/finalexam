@@ -137,7 +137,6 @@ h5,
     margin-bottom: 20px;
 }
 
-}
 
 .footer-links h4, .footer-social h4 {
     color: #FFFFFF;
@@ -151,7 +150,7 @@ h5,
 }
 
 .footer-links ul li a {
-    color: #cccccc; 
+    color: #FFFFFF; 
     text-decoration: none;
     display: block;
     margin-bottom: 5px;
@@ -174,6 +173,10 @@ h5,
     padding-top: 15px;
     font-size: 0.8em;
     color: #FFFFFF; 
+}
+
+.nobg {
+	background-color: transparent;
 }
               
 /* Sign or log in form */
