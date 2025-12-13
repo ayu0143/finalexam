@@ -32,11 +32,11 @@ nav ul {
  }
 
 a {
-	  font-family: 'Chivo';
+  font-family: 'Caprasimo';
   text-align: center;
   border-radius: 5px;
-  padding: 5px;
-  padding-left: 10px;
+  padding: 10px;
+  padding-left: 15px;
   color: #FFFFFF; 
   text-decoration: none; 
   transition: color 0.3s ease-in-out;
