@@ -68,6 +68,7 @@ body {
 p, li {
   font-size: 1em;
   font-family: 'Chivo';
+list-style: none;
 }
 
 h1,
