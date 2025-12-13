@@ -126,6 +126,17 @@ h5,
   }
 
 
+/* TUTORIAL PAGE */
+
+.tut-lay ul {
+ list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  gap: 20px;
+   padding: 20px;
+}
+
 /* FOOTER */
 .bank-footer {
     background-color: #ec888c; 
@@ -281,14 +292,4 @@ h5,
   padding: 10px;
 }
 
-/* TUTORIAL PAGE */
-
-.tut-lay ul {
- list-style: none;
-  display: flex;
-  justify-content: flex-start;
-  flex-direction: row;
-  gap: 20px;
-   padding: 20px;
-}
 
