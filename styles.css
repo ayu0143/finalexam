@@ -286,18 +286,10 @@ aside {
   width: 30%;
   float: right;
   margin: 10px;
-  padding: 10px 20px;
+  padding: 20px;
   box-shadow: 5px 5px 10px rgba(0,0,0,.5);
 	background-color: #fbd87f;
-	 display: flex;
-  flex-wrap: wrap;
-	flex-direction: column;
-	justify-content: center;
-  gap: 30px;
-}
-
-.diff {
-  display: flex;
+	display: flex;
   flex-wrap: wrap;
 	flex-direction: column;
 	justify-content: center;
