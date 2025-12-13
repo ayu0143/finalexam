@@ -109,11 +109,14 @@ h1,
   font-weight: 700;
   margin-top: 0;
   font-size: 4.21em;
-	color: #ec888c;
+	color: #b5f8fe;
 }
 
 h2,
-.text-size-h2 { font-size: 3.16em; }
+.text-size-h2 { 
+	font-size: 3.16em; 
+	color: #ec888c;
+}
 
 h3,
 .text-size-h3 { font-size: 2.37em; }
