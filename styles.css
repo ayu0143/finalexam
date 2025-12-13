@@ -281,7 +281,7 @@ h5,
   padding: 10px;
 }
 
-aside {
+aside li a {
   width: 30%;
   float: right;
   margin: 10px;
