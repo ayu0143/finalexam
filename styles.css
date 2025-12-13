@@ -336,9 +336,11 @@ display: flex;
     padding: 10px;
   }
 
-.video a {
+.video a h3{
 	all: unset;
 	color: black;
+	font-family: 'Caprasimo';
+	font-size: 2.37em;
 }
 
 .video a:visited {
