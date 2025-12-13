@@ -195,7 +195,7 @@ h5,
               
 /* Sign or log in form */
 
-.sign-log li{
+.sign-log {
 	display: flex;
   justify-content: flex-end;
   flex-direction: row;
