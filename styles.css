@@ -82,6 +82,7 @@ h5 {
   font-family: 'Caprasimo';
   font-weight: true;
   line-height: 1.15;
+border-bottom: 1px solid #fbd87f;
 }
 
 h1,
@@ -184,10 +185,6 @@ h5,
     font-size: 0.8em;
     color: #FFFFFF; 
 }
-
-.nobg {
-	background-color: transparent;
-}
               
 /* Sign or log in form */
 
@@ -201,7 +198,7 @@ h5,
     max-width: 500px;
     margin: 30px auto;
     padding: 20px;
-    background-color: pink;
+    background-color: #f75590;
     border: 1px solid #ccc;
     border-radius: 5px;
 	font-family: 'Chivo';
@@ -246,7 +243,7 @@ h5,
     display: block;
     width: 100%;
     padding: 10px;
-    background-color: blue; 
+    background-color: #b5f8fe; 
     color: white;
     border: none;
     border-radius: 4px;
@@ -256,5 +253,5 @@ h5,
 }
 
 .submit-button:hover {
-    background-color: red;
+    background-color: #10ffcb;
 }
