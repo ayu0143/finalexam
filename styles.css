@@ -343,3 +343,12 @@ display: flex;
 .video h3 {
 	color: black;
 }
+
+.video a:visited {
+   color: #fbd87f;
+}
+
+.video a:hover {
+   color: #ec888c;
+    text-decoration: underline; 
+}
