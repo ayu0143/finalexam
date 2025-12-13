@@ -15,6 +15,11 @@
   src: url('fonts/chivo-v21-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+html {
+  Background-color: #FFFFFF;
+	font-size: 16px;
+}
+
 nav ul {
   list-style: none;
   display: flex;
@@ -30,4 +35,48 @@ nav ul {
   padding: 5px;
   padding-left: 10px;
   border-radius: 5px;
+  font-family: 'Caprasimo';
  }
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: false;
+  line-height: 1.65;
+}
+
+p {
+  font-size: 1em;
+  font-family: 'Chivo';
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: true;
+  line-height: 1.15;
+}
+
+h1,
+.text-size-h1 {
+  font-family: 'Caprasimo';
+  font-weight: 700;
+  margin-top: 0;
+  font-size: 4.21em;
+}
+
+h2,
+.text-size-h2 { font-size: 3.16em; }
+
+h3,
+.text-size-h3 { font-size: 2.37em; }
+
+h4,
+.text-size-h4 { font-size: 1.78em; }
+
+h5,
+.text-size-h5 { font-size: 1.33em; }
+
+              
