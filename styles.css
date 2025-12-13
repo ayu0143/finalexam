@@ -130,11 +130,14 @@ h5,
 /*CENTERING */
   .center-text {
         text-align: center;
-	  	color: #ec888c;
   }
 
 .center-text h2 {
 	border: none;
+}
+
+.center-text h1 {
+	color: #ec888c;
 }
 
 /* HOMEPAGE ORGANIZATION */
