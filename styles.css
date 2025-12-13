@@ -42,10 +42,9 @@ nav ul {
 
 a {
   text-align: center;
-  background-color: #726255;
   border-radius: 5px;
   padding: 3px;
-  color: black; 
+  color: #FFFFFF; 
   text-decoration: none; 
   transition: color 0.3s ease-in-out;
 }
