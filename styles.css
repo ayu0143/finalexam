@@ -323,3 +323,15 @@ display: flex;
 	justify-content: center;
   gap: 30px;
 }
+
+/*VIDEO FORMATS*/
+
+.videos {
+    display: grid;
+    grid-template-columns: 1fr; 
+  }
+
+  .video {
+    border: 1px solid #10ffcb;
+    padding: 10px;
+  }
