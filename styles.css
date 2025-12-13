@@ -21,9 +21,9 @@ html {
 }
 
 .titleimg {
-	width: 100vw;   
-    height: 100vh;   
-    object-fit: cover;
+	width: 70vh;   
+    height: 70vh;   
+
 }
 
 nav ul {
