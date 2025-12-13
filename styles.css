@@ -20,6 +20,11 @@ html {
 	font-size: 16px;
 }
 
+.titleimg {
+	width: 100%;
+	height: auto;
+}
+
 nav ul {
   list-style: none;
   display: flex;
