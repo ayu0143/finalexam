@@ -16,7 +16,7 @@
 }
 
 html {
-  Background-color: yellow;
+  Background-color: #fce4d8;
 	font-size: 16px;
 }
 
@@ -26,7 +26,7 @@ nav ul {
   justify-content: flex-start;
   flex-direction: row;
   gap: 20px;
-  background-color: blue;
+  background-color: #b5f8fe;
    padding: 20px;
   border: 1px solid #FFFFFF;
  }
@@ -40,15 +40,15 @@ a {
   color: #FFFFFF; 
   text-decoration: none; 
   transition: color 0.3s ease-in-out;
-	background-color: pink;
+	background-color: #f75590;
 }
 
 a:visited {
-    /* color: #b5a79b; */
+   color: #fbd87f;
 }
 
 a:hover {
-    /* color: #fffacd; */
+   color: #ec888c;
     text-decoration: underline; 
 }
 
@@ -115,11 +115,11 @@ h5,
 
 /* FOOTER */
 .bank-footer {
-    background-color: ; 
-    color: ; 
+    background-color: #ec888c; 
+    color: #FFFFFF; 
     padding: 40px 20px 10px;
 	font-family: 'Chivo'; 
-    border-top: 3px solid blue;
+    border-top: 3px solid #10ffcb;
 }
 
 .footer-content {
@@ -128,7 +128,7 @@ h5,
     flex-wrap: wrap; 
     max-width: 1200px;
     margin: 0 auto;
-    border-bottom: 1px solid blue; 
+    border-bottom: 1px solid #10ffcb; 
     padding-bottom: 20px;
 }
 
@@ -137,13 +137,10 @@ h5,
     margin-bottom: 20px;
 }
 
-.footer-logo h3 {
-    color: ; 
-    margin-bottom: 5px;
 }
 
 .footer-links h4, .footer-social h4 {
-    color: #f0e68c;
+    color: #FFFFFF;
     padding-bottom: 5px;
     margin-bottom: 10px;
 }
@@ -162,7 +159,7 @@ h5,
 }
 
 .footer-links ul li a:hover {
-  color: ;
+  color: #ec888c;
   text-decoration: underline; 
 }
 
@@ -176,7 +173,7 @@ h5,
     text-align: center;
     padding-top: 15px;
     font-size: 0.8em;
-    color: ; 
+    color: #FFFFFF; 
 }
               
 /* Sign or log in form */
