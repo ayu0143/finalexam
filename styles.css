@@ -183,17 +183,17 @@ h5,
   flex-direction: row;
 }
 
-.contact-form {
+.log-form {
     max-width: 500px;
     margin: 30px auto;
     padding: 20px;
-    background-color: #ac0001;
+    background-color: pink;
     border: 1px solid #ccc;
     border-radius: 5px;
-    font-family: 'Arya'; 
+	font-family: 'Chivo';
 }
 
-.contact-form h2 {
+.log-form h2 {
     text-align: center;
     color: #FFFFFF;
     border-bottom: 1px solid #ddd;
@@ -242,5 +242,5 @@ h5,
 }
 
 .submit-button:hover {
-    background-color: #4d0001;
+    background-color: dark pink;
 }
