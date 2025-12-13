@@ -290,3 +290,8 @@ aside {
   box-shadow: 5px 5px 10px rgba(0,0,0,.5);
 	background-color: #fbd87f;
 }
+
+aside ul {
+	width: 20%;
+	gap: 20px;
+}
