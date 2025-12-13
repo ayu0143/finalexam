@@ -46,7 +46,7 @@ nav ul {
 nav img {
 	width: 40px;
 	height: 40px;
-	animation: spin 5s linear forwards;
+	animation: spin 2s linear forwards;
 }
 
 @keyframes spin {
