@@ -114,11 +114,7 @@ h5,
     color: ; 
     padding: 40px 20px 10px;
 	font-family: 'Chivo'; 
-    border-top: 3px solid #7d0a0a;
-}
-
-.page img {
-  padding-left: 20px
+    border-top: 3px solid blue;
 }
 
 .footer-content {
@@ -127,7 +123,7 @@ h5,
     flex-wrap: wrap; 
     max-width: 1200px;
     margin: 0 auto;
-    border-bottom: 1px solid rgba(240, 230, 140, 0.3); 
+    border-bottom: 1px solid blue; 
     padding-bottom: 20px;
 }
 
@@ -143,7 +139,7 @@ h5,
 
 .footer-links h4, .footer-social h4 {
     color: #f0e68c;
-    border-bottom: 1px solid #7d0a0a;
+    border-bottom: 1px solid blue;
     padding-bottom: 5px;
     margin-bottom: 10px;
 }
