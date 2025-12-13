@@ -237,7 +237,7 @@ h5,
     display: block;
     width: 100%;
     padding: 10px;
-    background-color: #740001; 
+    background-color: blue; 
     color: white;
     border: none;
     border-radius: 4px;
@@ -247,5 +247,5 @@ h5,
 }
 
 .submit-button:hover {
-    background-color: blue;
+    background-color: red;
 }
