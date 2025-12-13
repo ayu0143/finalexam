@@ -280,4 +280,13 @@ h5,
   padding: 10px;
 }
 
+/* TUTORIAL PAGE */
 
+aside {
+  width: 30%;
+  float: right;
+  margin: 10px;
+  padding: 10px 20px;
+  box-shadow: 5px 5px 10px rgba(0,0,0,.5);
+	background-color: #fbd87f;
+}
