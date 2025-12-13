@@ -266,6 +266,7 @@ h5,
 	flex-direction: row;
 	justify-content: center;
   gap: 40px;
+	padding: 30px;
 }
 .categories a {
   width: 200px;
