@@ -20,6 +20,11 @@ html {
 	font-size: 16px;
 }
 
+.pig {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
 .pig img {
 	width: 100%;
 	height: auto;
