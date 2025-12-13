@@ -291,7 +291,14 @@ aside {
 	background-color: #fbd87f;
 }
 
-aside ul {
+.diff {
+  display: flex;
+  flex-wrap: wrap;
+	flex-direction: column;
+	justify-content: center;
+  gap: 40px;
+}
+
+.diff a {
 	width: 20%;
-	gap: 20px;
 }
