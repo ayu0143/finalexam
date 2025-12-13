@@ -336,8 +336,12 @@ display: flex;
     padding: 10px;
   }
 
-.video a h3{
+.video a {
 	all: unset;
+	
+}
+
+.video h3 {
 	color: black;
 	font-family: 'Caprasimo';
 	font-size: 2.37em;
