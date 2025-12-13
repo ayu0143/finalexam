@@ -267,7 +267,7 @@ h5,
 	justify-content: center;
   gap: 40px;
 }
-.categories li a {
+.categories a {
   width: 200px;
   height: 180px;
   border: none;
