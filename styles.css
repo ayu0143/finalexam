@@ -20,6 +20,10 @@ html {
 	font-size: 16px;
 }
 
+.pig img {
+	width: 100%;
+	height: auto;
+}
 
 nav ul {
   list-style: none;
